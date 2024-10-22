@@ -3,7 +3,7 @@
 This website is a personal portfolio and marks my inaugural effort in web development. Designed as an introduction to my skills and experiences, it is not intended for professional deployment but serves as a valuable demonstration of my capabilities in HTML, CSS, and JavaScript. 
  
 
-
+ 
 
 ## key fetures 
 - Header: Includes a navigation bar with links to various sections of the portfolio, ensuring seamless and intuitive user navigation.
