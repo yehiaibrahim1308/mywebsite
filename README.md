@@ -4,7 +4,6 @@ This website is a personal portfolio and marks my inaugural effort in web develo
 
  
 
- 
 
 ## key fetures 
 - Header: Includes a navigation bar with links to various sections of the portfolio, ensuring seamless and intuitive user navigation.
